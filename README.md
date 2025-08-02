@@ -6,7 +6,8 @@ I'm a Computer Engineering student with a passion for algorithms, problem solvin
 
 - [CARD-VERIFIER](https://github.com/pouyatavakoli/CARD-VERIFIER): Card validation and verification tools.
 - [CodeStreaks](https://github.com/pouyatavakoli/CodeStreaks): Track and visualize your coding streaks.
-- [Barf-Yar](https://github.com/Reza-namvaran/Barf-Yar): Charity Telegram Bot
+- [Barf-Yar](https://github.com/Reza-namvaran/Barf-Yar): Charity Telegram Bot.
+- [muplitier](https://github.com/pouyatavakoli/muplitier): Simulation of approximate multiplier circuit.
 
 Explore my repositories and pull requests to see what I'm working on or experimenting with next!
 
