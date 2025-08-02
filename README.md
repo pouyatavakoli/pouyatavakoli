@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Pouya Tavakoli 👋
 
-<!--
-**pouyatavakoli/pouyatavakoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a passion for algorithms, problem solving, and building cool things with code. I enjoy writing scripts for automation, tackling interesting challenges, and playing chess in my free time.
 
-Here are some ideas to get you started:
+## 🚀 Favorite Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [CARD-VERIFIER](https://github.com/pouyatavakoli/CARD-VERIFIER): Card validation and verification tools.
+- [CodeStreaks](https://github.com/pouyatavakoli/CodeStreaks): Track and visualize your coding streaks.
+- [Rakab](https://github.com/pouyatavakoli/Rakab): (Description coming soon!)
+- [Barf-Yar](https://github.com/Reza-namvaran/Barf-Yar): (Description coming soon!)
+
+Explore my repositories and pull requests to see what I'm working on or experimenting with next!
+
+## 💡 What I Like
+
+- Solving algorithmic problems
+- Writing automation scripts
+- Playing chess
+- Learning and building with new technologies
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pouya-t/)
+
+---
+
+Feel free to fork any of my projects, open issues, or connect!
