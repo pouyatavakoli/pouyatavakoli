@@ -1,4 +1,4 @@
-# Hi there, I'm Pouya 👋
+<h1 align="center">Hi 👋, I'm Pouya</h1>
 
 I'm a Computer Engineering student with a passion for algorithms, problem solving, and building cool things with code. I enjoy writing scripts for automation, tackling interesting challenges, and playing chess in my free time.
 
