@@ -1,27 +1,29 @@
-<h1 align="center">Hi 👋, I'm Pouya</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi%20👋%2C%20I'm%20Pouya&fontColor=ffffff&fontSize=40&fontAlignY=38" alt="header" />
 
-I'm a Computer Engineering student with a passion for algorithms, problem solving, and building cool things with code. I enjoy writing scripts for automation, tackling interesting challenges, and playing chess in my free time.
+<div align="center">
 
-## 🚀 Favorite Projects
+I'm a **Computer Engineering student** who loves algorithms, problem solving, and building things with code.
+Always curious and always learning. I also enjoy chess and anything to do with space rockets 🚀
 
-- [CARD-VERIFIER](https://github.com/pouyatavakoli/CARD-VERIFIER): Card validation and verification tools.
-- [CodeStreaks](https://github.com/pouyatavakoli/CodeStreaks): Track and visualize your coding streaks.
-- [Barf-Yar](https://github.com/Reza-namvaran/Barf-Yar): Charity Telegram Bot.
-- [muplitier](https://github.com/pouyatavakoli/muplitier): Simulation of approximate multiplier circuit.
+<a href="https://www.linkedin.com/in/pouya-t/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-Explore my repositories and pull requests to see what I'm working on or experimenting with next!
+</div>
 
-## 💡 What I Like
+<div align="center">
 
-- Solving algorithmic problems
-- Writing automation scripts
-- Playing chess
-- Learning and building with new technologies
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pouya-t/)
+</div>
 
 ---
 
-Feel free to fork any of my projects, open issues, or connect!
+<div align="center">
+
+Feel free to fork my projects, open issues, or get in touch.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer" alt="footer" />
+
+</div>
